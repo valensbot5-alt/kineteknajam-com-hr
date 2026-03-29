@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kinetek-najam.com.hr/sitemap.xml
