@@ -1,7 +1,4 @@
-/* ============================================
-   VITALIS NAJAM KINETEKA - Premium CPM Rental
-   Aesthetic: Clinical Luxury / Modern Medical
-   ============================================ */
+/* Kinetek Najam - kineteknajam.com.hr */
 
 *, *::before, *::after {
     margin: 0;
@@ -10,40 +7,40 @@
 }
 
 :root {
-    --primary: #0f766e;
-    --primary-dark: #115e59;
-    --primary-deeper: #0d4f4a;
-    --primary-light: #5eead4;
-    --primary-glow: rgba(15, 118, 110, 0.12);
-    --primary-50: #f0fdf9;
+    --primary: #166534;
+    --primary-dark: #14532d;
+    --primary-deeper: #052e16;
+    --primary-light: #86efac;
+    --primary-glow: rgba(22, 101, 52, 0.12);
+    --primary-50: #f0fdf4;
 
-    --accent: #c9a96e;
-    --accent-dark: #b8976a;
-    --accent-light: #d4bb8a;
-    --accent-glow: rgba(201, 169, 110, 0.12);
+    --accent: #eab308;
+    --accent-dark: #ca8a04;
+    --accent-light: #fde047;
+    --accent-glow: rgba(234, 179, 8, 0.12);
 
-    --dark: #080c14;
-    --dark-800: #0f1520;
-    --dark-700: #181f2e;
-    --dark-600: #2d3548;
-    --dark-500: #4a5568;
+    --dark: #0a0f0d;
+    --dark-800: #111a16;
+    --dark-700: #1a2e22;
+    --dark-600: #2d4a38;
+    --dark-500: #4a6858;
 
-    --gray-100: #f5f5f4;
-    --gray-200: #e2e0dc;
-    --gray-300: #c4c0b9;
-    --gray-400: #8a8680;
+    --gray-100: #f4f5f4;
+    --gray-200: #dce0dc;
+    --gray-300: #b9c4b9;
+    --gray-400: #808a80;
 
-    --cream: #f9f7f4;
+    --cream: #f4f9f6;
     --white: #ffffff;
 
-    --font-display: 'Plus Jakarta Sans', sans-serif;
-    --font-body: 'DM Sans', sans-serif;
+    --font-display: 'Poppins', sans-serif;
+    --font-body: 'Roboto', sans-serif;
 
     --shadow-sm: 0 1px 2px rgba(0,0,0,0.03), 0 1px 3px rgba(0,0,0,0.03);
     --shadow-md: 0 4px 12px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.03);
     --shadow-lg: 0 10px 32px rgba(0,0,0,0.06), 0 2px 8px rgba(0,0,0,0.03);
     --shadow-xl: 0 20px 50px rgba(0,0,0,0.1);
-    --shadow-glow: 0 0 50px rgba(15, 118, 110, 0.08);
+    --shadow-glow: 0 0 50px rgba(22, 101, 52, 0.08);
 
     --radius-sm: 8px;
     --radius-md: 12px;
